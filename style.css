@@ -1,0 +1,261 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.conteiner {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.headerp {
+    padding-top: 30px;
+    padding-left: 52px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.head {
+    background-image: url(./image\ 1\ \(1\).png);
+    height: 1024px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 123px;
+}
+
+#PFF {
+    width: 243px;
+    height: 50px;
+    border-radius: 10px;
+    background: #009FF5B5;
+    box-shadow: 0px 4px 4px 0px #DAD3FF;
+    border: none;
+    display: flex;
+    margin-left: 68px;
+    margin-right: 35px;
+    color: white;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23.44px;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 21px;
+}
+
+.headerw {
+    display: flex;
+}
+
+#MP2 {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23.44px;
+    text-align: left;
+    background: #D5D5D6;
+    background-color: #d5d5d600;
+    border: none;
+    color: white;
+    text-shadow: #00000040 3px 3px 3px;
+
+}
+
+#SLi {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23.44px;
+    text-align: left;
+    background: #D5D5D6;
+    text-shadow: #000000 0px 4px 4px 0px;
+    color: #D5D5D6;
+    background-color: #00000000;
+    border: none;
+    margin-right: 52px;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.BPITW {
+    display: flex;
+    width: 604px;
+    height: 103px;
+    border-radius: 50px;
+    border: 11px;
+    background: #FFC611;
+    border: 11px solid #5A5555;
+    text-shadow: #0047FF 0px 4px 4px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42.19px;
+    text-align: center;
+    margin-top: 177px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70vh;
+    margin-bottom: 132px;
+}
+
+.img {
+    display: flex;
+    flex-direction: column;
+    width: 364px;
+    height: 420px;
+    background: #1F1F1F;
+    box-shadow: 8px 7px 20px 0px #FFFFFF;
+    text-shadow: #FFC200 0px 4px 4px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 42.19px;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgb {
+    display: flex;
+    justify-content: space-around;
+}
+
+main {
+    background-color: #000000;
+    padding: 87px;
+}
+
+.imp1 {
+    font-family: Roboto;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 31.64px;
+    text-align: left;
+    display: flex;
+    margin: 51px;
+    color: white;
+}
+
+.impB1 {
+    display: flex;
+    width: 278px;
+    height: 61px;
+    background: #FFC200;
+    box-shadow: 0px 7px 12.8px 0px #FFFFFF;
+    font-family: Roboto;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 31.64px;
+    text-align: left;
+    margin-top: 104px;
+    transition: 0.5;
+}
+
+#one {
+    width: 663px;
+    height: 140px;
+
+}
+
+.div {
+    margin-left: 87px;
+}
+
+main>h1 {
+    color: #5A5555;
+    font-family: Roboto;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 75px;
+    text-align: left;
+    text-shadow: 0px 4px 4px #FFFFFF;
+    display: flex;
+    justify-content: center;
+}
+
+.impB1:hover {
+    color: #FFFFFF;
+    background-color: #535353;
+    border: none;
+}
+
+.impB2:hover {
+    color: #FFFFFF;
+    background-color: #535353;
+    border: none;
+}
+
+.imp2 {
+    font-family: Roboto;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 31.64px;
+    text-align: left;
+    display: flex;
+    margin: 51px;
+    color: white;
+}
+
+.impB1 {
+    display: flex;
+    width: 278px;
+    height: 61px;
+    background: #FFC200;
+    box-shadow: 0px 7px 12.8px 0px #FFFFFF;
+    font-family: Roboto;
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 31.64px;
+    text-align: left;
+    margin-top: 104px;
+    align-items: center;
+    justify-content: center;
+}
+
+#one {
+    width: 663px;
+    height: 140px;
+
+}
+
+.div {
+    margin-left: 87px;
+
+}
+
+main>h1 {
+    color: #5A5555;
+    font-family: Roboto;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 75px;
+    text-align: left;
+    text-shadow: 0px 4px 4px #FFFFFF;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    background-color: #FFC611;
+    height: 158px;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 58px;
+    padding-right: 76px;
+}
+
+footer>img {
+    width: 101px;
+    height: 55px;
+}
+
+.htm {
+    display: flex;
+    gap: 42.5px;
+}
